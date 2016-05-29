@@ -2,6 +2,8 @@
 High-Speed Software Implementation of the Optimal Ate Pairing over Barreto-Naehrig Curves
 =============
 
+Alexander Leishman Fork
+
 This library provides functionality to compute the optimal ate pairing over Barreto-Naehrig (BN) curves.
 It is released under the [BSD 3-Clause License](http://opensource.org/licenses/BSD-3-Clause).
 
